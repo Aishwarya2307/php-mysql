@@ -3,7 +3,7 @@
 server with default setting (user 'root' with no password) */
 define('DB_SERVER', 'database-1.cunmyjc2dhmm.ap-south-1.rds.amazonaws.com');
 define('DB_USERNAME', 'admin');
-define('DB_PASSWORD', 'Aishwarya');
+define('DB_PASSWORD', 'password');
 define('DB_NAME', 'employees_db');
  
 /* Attempt to connect to MySQL database */
